@@ -151,4 +151,4 @@ docker-compose up
 docker-compose down
 ```
 
-> Note：guardian.phar、tapeworm.phar、roundworm等文件将会在部署时保存到当前目录下的 tmp 文件夹中。
+> Note：aoiawd.phar、guardian.phar、tapeworm.phar、roundworm等文件将会在部署时保存到当前目录下的 tmp 文件夹中。
